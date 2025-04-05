@@ -129,7 +129,7 @@ There was a funny PayPay (a Japanese digital paying system) sound somewhere ahea
 
 Celo yelled, “make the heroes one hundred times stronger!” 
 
-Polygon yelled, “do your best attack that you can think of! In the count of three, “one, two….” 
+Polygon yelled, “do your best attack that you can think of! On the count of three, “one, two….” 
 
 A giant crystal shot out of the card.
 “Nooooo!” Mauvais whimpered as his mask slid off his face and stumbled to the floor. Mauvais fainted and lost consciousness. It was Dr. Kartik.
