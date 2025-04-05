@@ -52,6 +52,8 @@ The heroes gasped.
 
 Saga, hero of speed said, “It’s still here.” 
 
+<img src="saga-fast.jpg" width="200">
+
 “Yes, but by using his power, he faked and copied our Thing.”
 
 ”Hey, but wait. What are we talking about here?” Curvegrid asked. 
@@ -59,6 +61,8 @@ Saga, hero of speed said, “It’s still here.”
 “Oh sorry, I forgot to explain that” said Dr.  Kartik. “So this Thing that I’m talking about is called ownership.” 
 
  “What now?” said Rootstock, the hero of flexibility. 
+
+ <img src="rootstock-flexibility.jpg" width="200">
 
 Dr. Kartik now said in a concerned tone, “For the past 2000 years, no one has ever owned Ethereum. By using this ownership, which is a card, you can own Ethereum. You can do terrible things by owning it. You can create things that are so powerful that it can destroy the world.”
 
@@ -123,7 +127,7 @@ Another hero stood up. Celo, hero of prosperity, said, “I will use all of the 
 
 There was a funny PayPay (a Japanese digital paying system) sound somewhere ahead. Out of nowhere, there was a card of ownership.
 
-Celo yelled, “make the heroes hundred times stronger!” 
+Celo yelled, “make the heroes one hundred times stronger!” 
 
 Polygon yelled, “do your best attack that you can think of! In the count of three, “one, two….” 
 
