@@ -1,16 +1,14 @@
 # The Mighty 18 and Pals
 
-It was the year 2025 where it was a safe and peaceful world called Ethereum. The people who lived in this world could build anything because Ethereum was a world that you built on.  Since no one owned it, it was free to build on it.
+It was the year 2025 where it was a safe and peaceful world called Ethereum. The people who lived in this world could build anything because Ethereum was a world that you built on.  Since no one owned it, it was free to build on it. But there were villains that used the technology to steal things or cause chaos. 
 
- But there were villains that used the technology to steal things or cause chaos. One day, there was a jewelry store selling really expensive diamonds and other precious jewels. It happened on a normal day around lunch time. Four robbers broke into the store using a machine that can break through walls and can get things from long distances. The machine was like a box that had long mechanical arms and a drill. The staff and customers screamed and ran away. The robbers made an evil grin and took the diamonds with their machine.
+One day, there was a jewelry store selling really expensive diamonds and other precious jewels. It happened on a normal day around lunch time. Four robbers broke into the store using a machine that can break through walls and can get things from long distances. The machine was like a box that had long mechanical arms and a drill. The staff and customers screamed and ran away. The robbers made an evil grin and took the diamonds with their machine.
 
 A deep, clear voice said, “Not so fast, fools.” The robbers looked up and saw the mighty 18 super heroes, each with unique powers. 
 
 “There’s the mighty 18!” said a young boy. People around the store started cheering. The robbers tried to make a run for it, but something bumped into the robbers; it was Rootstock.
 
-<img src="rootstock.jpg" width=200>
-
- One of the robbers tried to tackle Rootstock, but Rootstock slid through the robber's arms using his flexibility. 
+One of the robbers tried to tackle Rootstock, but Rootstock slid through the robber's arms using his flexibility. 
 
 Friendship hero, ENS, ran to the robber and started talking to him. In less than 10 seconds, they became best friends and gave back the jewels that he stole. 
 
@@ -26,17 +24,17 @@ Innovation hero, 1inch, made a rope that cannot be untied. 1inch flung it around
 
 From a distance, sirens sounded and three police cars came crashing down the street. The five superheroes gave the robbers to the police. The crowd started cheering and the five heroes returned to their home base, ETHGlobal.
 
-ETHGlobal was at the center of the city. It was a tropical garden, lush with palm trees, hibiscus and passion fruit trees, covered with an invisible protective dome.
+In the city of Ethereum, there was a tropical garden called ETHGlobal at the center of the city. This tropical garden, lush with palm trees, hibiscus and passion fruit trees, was covered with an invisible protective dome.
 
 Heroes came in and out of it. There were rumors something was being created inside of it.
 
-The rest of the Mighty 18 were waiting inside. As the five heroes returned, a screen suspended from the ceiling slowly descended. Dr. Kartik with his usual calm expression spoke through the screen, 
+The rest of the Mighty 18, the superheroes, were waiting inside. As the five heroes returned from combatting the robbers, a screen suspended from the ceiling slowly descended. Dr. Kartik with his usual calm expression spoke through the screen, 
 
 “There has been a disaster. As you may know, Mauvais has been gaining power these past 5 years. About a month ago, Mauvais broke into our garden. Luckily, the Thing was not stolen because it was not in the garden. But this time, he has stolen it.”
 
 The heroes gasped.
 
-Saga said, “It’s still here.” 
+Saga, hero of speed said, “It’s still here.” 
 
 “Yes, but by using his power, he faked and copied our Thing.”
 
@@ -44,11 +42,11 @@ Saga said, “It’s still here.”
 
 “Oh sorry, I forgot to explain that” said Dr.  Kartik. “So this Thing that I’m talking about is called ownership.” 
 
- “What now?” said Rootstock. 
+ “What now?” said Rootstock, the hero of flexibility. 
 
 Dr. Kartik now said in a concerned tone, “For the past 2000 years, no one has ever owned Ethereum. By using this ownership, which is a card, you can own Ethereum. You can do terrible things by owning it. You can create things that are so powerful that it can destroy the world.”
 
-The heroes were crying out. Words of concern. Some of them actually swore. Doctor Kartik cleared his throat and all the heroes went silent. 
+The heroes were crying out words of concern. Some of them actually swore. Doctor Kartik cleared his throat and all the heroes went silent. 
 
 “Today we are going to take the ownership back from him before anything bad happens. Mighty 18, assemble!!” shouted Dr. Kartik.
 
@@ -64,15 +62,15 @@ They all nodded and dashed to the forgotten city.
 
 Meanwhile, at the forgotten city, there was a cloaked figure. He took his skull mask off, and it was Dr. Kartik.
 
-The heroes were coming close to the city. There was a gate and guards in front of it. Permissionless heroes, Uniswap and Hyperlane, used their powers to get past the guards, without any permission. The heroes walked to the creepy town and saw a man with a black cloak, holding a card.
+The heroes headed to the city. There was a gate and guards in front of it. Permissionless heroes, Uniswap and Hyperlane, used their powers to get past the guards, without any permission. The heroes walked to the creepy town and saw a man with a black cloak, holding a card.
 
 “Mauvais…” murmured the heroes. 
 
-Bitcoin hero, Citrea, traded the guards with Bitcoin. He got a transceiver. He called the military to come as fast as they can to the Hackathon.
+Bitcoin hero, Citrea, traded the guards with Bitcoin. He got a transceiver. He called the military to come as fast as they could to the Hackathon.
 
-Mauvais said something to the card. A giant snake appeared out of nowhere. It spit venom at the heroes. Suddenly, a huge shield appeared and the poison got deflected.  It was anti-virus hero, Zircuit.
+The heroes found Mauvais at the forgotten city, and saw him say something to the card. A giant snake appeared out of nowhere. It spat venom at the heroes. Suddenly, a huge shield appeared and the poison got deflected.  It was anti-virus hero, Zircuit.
 
-Metal, hero of simplicity, yelled, “be aggressive!” to Hashkey Chain, the hero of compliance.
+The hero of simplicity yelled, “be aggressive!” to Hashkey Chain, the hero of compliance.
 
 HashKey Chain started attacking the snake with his fist. The snake wailed in pain and fell to the ground. The other heroes cheered.
 
@@ -95,14 +93,17 @@ Polygon yelled, “do your best attack that you can think of! In the count of th
 A giant crystal shot out of the card.
 “Nooooo!” Mauvais whimpered as his mask slid off his face and stumbled to the floor. Mauvais fainted and lost consciousness. It was Dr. Kartik.
 
-The heroes were so shocked that they couldn’t even say a word. Few heroes said, “We did the right thing to stop him and destroy the card.” 
+The heroes were so shocked that they couldn’t even say a word. A few heroes said, “We did the right thing to stop him and destroy the card.” 
 
-Mauvais woke up and were surrounded by heroes and had a expression of both fright and tiredness. 
+Mauvais woke up and were surrounded by heroes and had an expression of both freight and tiredness. 
 
-One of the hero’s asked“why did you need to do this!”
+One of the hero’s asked, “why did you do this!”
 
- “Well first of all said” Mauvais “I thought we needed a person that could control Ethereum and stop people creating things because there was too much risk.
+Mauvais said, “I thought we needed a person that could control Ethereum and stop people from creating things because there was too much risk.”
 
- “Well” said the hero’s all together “creative is all about taking risks and that’s why you can make such a good thing.” Maurvis had a defeated expression on his face. 
+ “Well” said the heroes all together, “being creative is all about taking risks and that’s why you can make such a good thing.” Mauvais had a defeated expression on his face. 
 
-The hero’s look up there was a rainbow on the sky saying as to agree with what the hero’s said.
+The heroes looked up. There was a rainbow in the sky, as if it was agreeing with what the heroes had just said.
+
+
+ 
