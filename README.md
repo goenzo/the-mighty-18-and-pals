@@ -144,6 +144,25 @@ Mauvais said, “I thought we needed a person that could control Ethereum and st
 
  “Well” said the heroes all together, “being creative is all about taking risks and that’s why you can make such a good thing.” Mauvais had a defeated expression on his face. 
 
+ <img src="hashkeychain-compliance.jpg" width="200">
+<img src="curvegrid-teamwork.jpg" width="200">
+<img src="saga-fast.jpg" width="200">
+<img src="zircut-antivirus.jpg" width="200">
+<img src="rootstock-flexibility.jpg" width="200">
+<img src="1inch-innovation.jpg" width="200">
+<img src="world-humanity.jpg" width="200">
+<img src="metal-simplicity.jpg" width="200">
+<img src="polygon-relentlessness.jpg" width="200">
+<img src="nodit-data.jpg" width="200">
+<img src="hyperlane-permissionless.jpg" width="200">
+<img src="celo-prosperity.jpg" width="200">
+<img src="citrea-bitcoin.jpg" width="200">
+<img src="circle-frictionless.jpg" width="200">
+<img src="flow-magic.jpg" width="200">
+<img src="uniswap-permissionless.jpg" width="200">
+<img src="ens-friendship.jpg" width="200">
+<img src="self-proof.jpg" width="200">
+
 The heroes looked up. There was a rainbow in the sky, as if it was agreeing with what the heroes had just said.
 
 
