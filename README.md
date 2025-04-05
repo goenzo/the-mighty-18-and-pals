@@ -8,19 +8,35 @@ A deep, clear voice said, “Not so fast, fools.” The robbers looked up and sa
 
 “There’s the mighty 18!” said a young boy. People around the store started cheering. The robbers tried to make a run for it, but something bumped into the robbers; it was Rootstock.
 
+<img src="rootstock-flexibility.jpg" width="200">
+
 One of the robbers tried to tackle Rootstock, but Rootstock slid through the robber's arms using his flexibility. 
 
 Friendship hero, ENS, ran to the robber and started talking to him. In less than 10 seconds, they became best friends and gave back the jewels that he stole. 
+
+<img src="ens-friendship.jpg" width="200">
 
 The other three robbers tried to run away, but four hero’s appeared ahead of them. It was speed hero Saga, teamwork hero Curvegrid, magic hero Flow, and innovation hero 1 inch. 
 
 Curvegrid told what the heroes should do to capture the robbers and shouted, “Attack!”. 
 
+<img src="curvegrid-teamwork.jpg" width="200">
+
 First, Flow shouted the fire spell. The robbers caught on fire.
+
+<img src="flow-magic.jpg" width="200">
 
 Then, as the robbers flung their jewels out of their hand, speed hero Saga caught the jewels in midair. 
 
-Innovation hero, 1inch, made a rope that cannot be untied. 1inch flung it around the robbers. 
+<img src="saga-fast.jpg" width="200">
+
+Innovation hero, 1inch, made a rope that could not be untied. 1inch flung it around two of the robbers. 
+
+<img src="1inch-innovation.jpg" width="200">
+
+The other one, almost near the exit, suddenly got knocked off his feet by an invisible force. It was the invincible hero, Self.
+
+<img src="self-proof.jpg" width="200">
 
 From a distance, sirens sounded and three police cars came crashing down the street. The five superheroes gave the robbers to the police. The crowd started cheering and the five heroes returned to their home base, ETHGlobal.
 
@@ -54,9 +70,13 @@ All of the heroes dashed out of the dome.
 
 “But wait,” said the hero of humanity, World. “Do you guys even know where he is? The joke's too cold to be funny.”
 
+<img src="world-humanity.jpg" width="200">
+
 Everyone paused. 
 
 “According to my calculations,” said Nodit, the hero of data, “Mauvais is at the far west forgotten city, the Hackathon.” 
+
+<img src="nodit-data.jpg" width="200">
 
 They all nodded and dashed to the forgotten city.
 
@@ -64,15 +84,28 @@ Meanwhile, at the forgotten city, there was a cloaked figure. He took his skull 
 
 The heroes headed to the city. There was a gate and guards in front of it. Permissionless heroes, Uniswap and Hyperlane, used their powers to get past the guards, without any permission. The heroes walked to the creepy town and saw a man with a black cloak, holding a card.
 
+<img src="uniswap-permissionless.jpg" width="200">
+
+<img src="hyperlane-permissionless.jpg" width="200">
+
+
 “Mauvais…” murmured the heroes. 
 
 Bitcoin hero, Citrea, traded the guards with Bitcoin. He got a transceiver. He called the military to come as fast as they could to the Hackathon.
 
+<img src="citrea-bitcoin.jpg" width="200">
+
 The heroes found Mauvais at the forgotten city, and saw him say something to the card. A giant snake appeared out of nowhere. It spat venom at the heroes. Suddenly, a huge shield appeared and the poison got deflected.  It was anti-virus hero, Zircuit.
 
-The hero of simplicity yelled, “be aggressive!” to Hashkey Chain, the hero of compliance.
+<img src="zircut-antivirus.jpg" width="200">
+
+The hero of simplicity, Metal, yelled, “be aggressive!” to Hashkey Chain, the hero of compliance.
+
+<img src="metal-simplicity.jpg" width="200">
 
 HashKey Chain started attacking the snake with his fist. The snake wailed in pain and fell to the ground. The other heroes cheered.
+
+<img src="hashkeychain-compliance.jpg" width="200">
 
 With a tone of anger in his voice, Mauvais quietly said, “Why do you stupid heroes always try to stop me? You should pay for what you did.” 
 
@@ -80,9 +113,13 @@ Mauvais then shouted, “explosion of zero!”
 
 From the card, a huge explosion erupted. All the heroes got blasted and fell backwards. They all groaned in pain. But one hero was still standing. It was Polygon, the hero of relentlessness. 
 
+<img src="polygon-relentlessness.jpg" width="200">
+
 “We can still do this! He may be really strong, but he is alone. We have a team effort and we can destroy him.”
 
 Another hero stood up. Celo, hero of prosperity, said, “I will use all of the assets that I have to destroy you.”
+
+<img src="celo-prosperity.jpg" width="200">
 
 There was a funny PayPay (a Japanese digital paying system) sound somewhere ahead. Out of nowhere, there was a card of ownership.
 
