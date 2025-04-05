@@ -8,6 +8,8 @@ A deep, clear voice said, “Not so fast, fools.” The robbers looked up and sa
 
 “There’s the mighty 18!” said a young boy. People around the store started cheering. The robbers tried to make a run for it, but something bumped into the robbers; it was Rootstock.
 
+<img src="rootstock.jpg" width=200>
+
  One of the robbers tried to tackle Rootstock, but Rootstock slid through the robber's arms using his flexibility. 
 
 Friendship hero, ENS, ran to the robber and started talking to him. In less than 10 seconds, they became best friends and gave back the jewels that he stole. 
